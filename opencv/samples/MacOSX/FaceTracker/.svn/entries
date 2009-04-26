@@ -1,0 +1,67 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/samples/MacOSX/FaceTracker
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2007-06-10T20:43:43.000000Z
+1061
+markasbach
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+FaceTracker.xcodeproj
+dir
+
+FaceTracker.cpp
+file
+
+
+
+
+2009-04-26T00:33:15.000000Z
+7ba4f7618ec17d84cf3be9c23b8054a1
+2007-06-10T20:43:43.000000Z
+1061
+markasbach
+
+README.txt
+file
+
+
+
+
+2009-04-26T00:33:15.000000Z
+91ca57c0fe69821890592cb23a4f099a
+2007-06-10T20:43:43.000000Z
+1061
+markasbach
+
+FaceTracker-Info.plist
+file
+
+
+
+
+2009-04-26T00:33:15.000000Z
+ac7006bfd0aca7fe4f6663627af351ea
+2007-06-10T20:43:43.000000Z
+1061
+markasbach
+

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/1422/trunk/opencv/src/cvaux/vs
+END
+blobtrackanalysishist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackanalysishist.cpp
+END
+blobtrackingmsfgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackingmsfgs.cpp
+END
+bgfg_estimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/bgfg_estimation.cpp
+END
+blobtrackingcc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackingcc.cpp
+END
+blobtrackanalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackanalysis.cpp
+END
+enteringblobdetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1218/trunk/opencv/src/cvaux/vs/enteringblobdetection.cpp
+END
+enteringblobdetectionreal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1193/trunk/opencv/src/cvaux/vs/enteringblobdetectionreal.cpp
+END
+blobtrackingmsfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackingmsfg.cpp
+END
+blobtrackgen1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackgen1.cpp
+END
+blobtrackgenyml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackgenyml.cpp
+END
+blobtrackanalysistrackdist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackanalysistrackdist.cpp
+END
+blobtrackpostprockalman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackpostprockalman.cpp
+END
+blobtrackanalysisior.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackanalysisior.cpp
+END
+blobtrackingkalman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackingkalman.cpp
+END
+blobtrackpostproclinear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackpostproclinear.cpp
+END
+blobtrackingccwithcr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackingccwithcr.cpp
+END
+testseq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/testseq.cpp
+END
+blobtrackpostproclist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackpostproclist.cpp
+END
+blobtrackingauto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/vs/blobtrackingauto.cpp
+END
+blobtrackinglist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1170/trunk/opencv/src/cvaux/vs/blobtrackinglist.cpp
+END

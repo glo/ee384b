@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/opencvlibrary/!svn/ver/1691/trunk/opencv/samples/c
+END
+pic1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/pic1.png
+END
+left06.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left06.jpg
+END
+pic2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/pic2.png
+END
+left07.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left07.jpg
+END
+pic3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/pic3.png
+END
+left08.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left08.jpg
+END
+left09.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left09.jpg
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/samples/c/Makefile.in
+END
+pic4.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/pic4.png
+END
+pic5.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/pic5.png
+END
+kalman.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/kalman.c
+END
+blobtrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1670/trunk/opencv/samples/c/blobtrack.cpp
+END
+pic6.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/pic6.png
+END
+letter-recognition.data
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/880/trunk/opencv/samples/c/letter-recognition.data
+END
+find_obj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1286/trunk/opencv/samples/c/find_obj.cpp
+END
+motempl.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/motempl.c
+END
+build_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1458/trunk/opencv/samples/c/build_all.sh
+END
+tree_engine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1689/trunk/opencv/samples/c/tree_engine.cpp
+END
+calibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1461/trunk/opencv/samples/c/calibration.cpp
+END
+convexhull.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/convexhull.c
+END
+distrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/distrans.c
+END
+facedetect.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1498/trunk/opencv/samples/c/facedetect.c
+END
+left11.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left11.jpg
+END
+box.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1286/trunk/opencv/samples/c/box.png
+END
+left12.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left12.jpg
+END
+drawing.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/drawing.c
+END
+stereo_calib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/stereo_calib.cpp
+END
+left13.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left13.jpg
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1207/trunk/opencv/samples/c/.cvsignore
+END
+left14.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left14.jpg
+END
+morphology.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/morphology.c
+END
+delaunay.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/delaunay.c
+END
+camshiftdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/camshiftdemo.c
+END
+houghlines.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/houghlines.c
+END
+fruits.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/fruits.jpg
+END
+lkdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/lkdemo.c
+END
+waveform.data
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1689/trunk/opencv/samples/c/waveform.data
+END
+convert_cascade.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/convert_cascade.c
+END
+squares.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/squares.c
+END
+box_in_scene.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1286/trunk/opencv/samples/c/box_in_scene.png
+END
+baboon.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/baboon.jpg
+END
+inpaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1336/trunk/opencv/samples/c/inpaint.cpp
+END
+facedetect.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1364/trunk/opencv/samples/c/facedetect.cmd
+END
+mushroom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/880/trunk/opencv/samples/c/mushroom.cpp
+END
+minarea.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/minarea.c
+END
+contours.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/contours.c
+END
+right01.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right01.jpg
+END
+lena.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/lena.jpg
+END
+adaptiveskindetector_sample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/1575/trunk/opencv/samples/c/adaptiveskindetector_sample.cpp
+END
+dft.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/dft.c
+END
+right02.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right02.jpg
+END
+kmeans.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/kmeans.c
+END
+cvsample.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1299/trunk/opencv/samples/c/cvsample.dsp
+END
+right03.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right03.jpg
+END
+right04.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right04.jpg
+END
+bgfg_segm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/591/trunk/opencv/samples/c/bgfg_segm.cpp
+END
+agaricus-lepiota.data
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/681/trunk/opencv/samples/c/agaricus-lepiota.data
+END
+right05.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right05.jpg
+END
+right06.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right06.jpg
+END
+pyramid_segmentation.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/pyramid_segmentation.c
+END
+right07.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right07.jpg
+END
+right08.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right08.jpg
+END
+right09.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right09.jpg
+END
+stuff.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/stuff.jpg
+END
+airplane.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/samples/c/airplane.jpg
+END
+polar_transforms.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1691/trunk/opencv/samples/c/polar_transforms.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1689/trunk/opencv/samples/c/CMakeLists.txt
+END
+fitellipse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1513/trunk/opencv/samples/c/fitellipse.cpp
+END
+laplace.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/laplace.c
+END
+ffilldemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/ffilldemo.c
+END
+edge.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/edge.c
+END
+bgfg_codebook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1335/trunk/opencv/samples/c/bgfg_codebook.cpp
+END
+right11.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right11.jpg
+END
+letter_recog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/887/trunk/opencv/samples/c/letter_recog.cpp
+END
+right12.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right12.jpg
+END
+right13.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right13.jpg
+END
+right14.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/right14.jpg
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/721/trunk/opencv/samples/c/image.cpp
+END
+watershed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1336/trunk/opencv/samples/c/watershed.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/samples/c/Makefile.am
+END
+stereo_calib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/stereo_calib.txt
+END
+left01.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left01.jpg
+END
+cvsample.vs2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1362/trunk/opencv/samples/c/cvsample.vs2005.vcproj
+END
+left02.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left02.jpg
+END
+left03.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left03.jpg
+END
+left04.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left04.jpg
+END
+tree.avi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1335/trunk/opencv/samples/c/tree.avi
+END
+left05.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1333/trunk/opencv/samples/c/left05.jpg
+END
+demhist.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1429/trunk/opencv/samples/c/demhist.c
+END

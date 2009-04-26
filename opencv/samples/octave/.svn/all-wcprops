@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/opencvlibrary/!svn/ver/1594/trunk/opencv/samples/octave
+END
+cam-histo.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1154/trunk/opencv/samples/octave/cam-histo.m
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/samples/octave/Makefile.in
+END
+demhist.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1142/trunk/opencv/samples/octave/demhist.m
+END
+fitellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/fitellipse.m
+END
+capture-cam.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1154/trunk/opencv/samples/octave/capture-cam.m
+END
+kalman.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/kalman.m
+END
+minarea.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/minarea.m
+END
+contours.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1142/trunk/opencv/samples/octave/contours.m
+END
+motempl.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/motempl.m
+END
+dft.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/dft.m
+END
+kmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/kmeans.m
+END
+logpolar.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1150/trunk/opencv/samples/octave/logpolar.m
+END
+pyramid_segmentation.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/pyramid_segmentation.m
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1594/trunk/opencv/samples/octave/CMakeLists.txt
+END
+watershed.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/watershed.m
+END
+convexhull.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/convexhull.m
+END
+distrans.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1142/trunk/opencv/samples/octave/distrans.m
+END
+facedetect.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1154/trunk/opencv/samples/octave/facedetect.m
+END
+drawing.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/drawing.m
+END
+morphology.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/morphology.m
+END
+minidemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1142/trunk/opencv/samples/octave/minidemo.m
+END
+laplace.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1154/trunk/opencv/samples/octave/laplace.m
+END
+ffilldemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/ffilldemo.m
+END
+inpaint.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/inpaint.m
+END
+delaunay.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1140/trunk/opencv/samples/octave/delaunay.m
+END
+edge.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1142/trunk/opencv/samples/octave/edge.m
+END
+houghlines.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/houghlines.m
+END
+lkdemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1152/trunk/opencv/samples/octave/lkdemo.m
+END
+chessboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1121/trunk/opencv/samples/octave/chessboard.m
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1109/trunk/opencv/samples/octave/Makefile.am
+END
+squares.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1150/trunk/opencv/samples/octave/squares.m
+END

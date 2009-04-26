@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1722/trunk/opencv/interfaces/swig/general
+END
+cv.i
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1487/trunk/opencv/interfaces/swig/general/cv.i
+END
+memory.i
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1493/trunk/opencv/interfaces/swig/general/memory.i
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/interfaces/swig/general/Makefile.in
+END
+cvarr_operators.i
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/1227/trunk/opencv/interfaces/swig/general/cvarr_operators.i
+END
+cvmacros.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1499/trunk/opencv/interfaces/swig/general/cvmacros.i
+END
+doublepointers.i
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/769/trunk/opencv/interfaces/swig/general/doublepointers.i
+END
+extensions.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1722/trunk/opencv/interfaces/swig/general/extensions.i
+END
+sizeof.i
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/685/trunk/opencv/interfaces/swig/general/sizeof.i
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1417/trunk/opencv/interfaces/swig/general/Makefile.am
+END
+typemaps.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1228/trunk/opencv/interfaces/swig/general/typemaps.i
+END
+highgui.i
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1570/trunk/opencv/interfaces/swig/general/highgui.i
+END

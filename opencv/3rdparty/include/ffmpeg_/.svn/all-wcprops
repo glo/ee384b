@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/adler32.h
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/integer.h
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/avio.h
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/mathematics.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/opt.h
+END
+lzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/lzo.h
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/avutil.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/avcodec.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/rtp.h
+END
+rtspcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/rtspcodes.h
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/rational.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/mem.h
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/avformat.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/random.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/log.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/fifo.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/base64.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/md5.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/intfloat_readwrite.h
+END
+rgb2rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/rgb2rgb.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/common.h
+END
+rtsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/ffmpeg_/rtsp.h
+END

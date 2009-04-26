@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/testdata
+END
+protocol.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/testdata/protocol.txt
+END
+mushroom.data
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/testdata/mushroom.data
+END
+adult.data
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/adult.data
+END
+housing.data
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/housing.data
+END
+vehicle.data
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/vehicle.data
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/testdata/validation.xml
+END
+poletelecomm.data
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/poletelecomm.data
+END
+waveform.data
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/waveform.data
+END
+spambase.data
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/spambase.data
+END
+ringnorm.data
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/ringnorm.data
+END
+letter.data
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/letter.data
+END
+automobile.data
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/automobile.data
+END
+abalone.data
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/abalone.data
+END
+twonorm.data
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/twonorm.data
+END
+car.data
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/testdata/car.data
+END

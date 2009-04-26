@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1525/trunk/opencv/interfaces/ippopencv
+END
+opencvipp_funclist.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/1418/trunk/opencv/interfaces/ippopencv/opencvipp_funclist.h
+END
+dllmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1525/trunk/opencv/interfaces/ippopencv/dllmain.c
+END
+make_def.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/680/trunk/opencv/interfaces/ippopencv/make_def.py
+END
+export51.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1418/trunk/opencv/interfaces/ippopencv/export51.def
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1418/trunk/opencv/interfaces/ippopencv/readme.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1445/trunk/opencv/interfaces/ippopencv/CMakeLists.txt
+END

@@ -1,0 +1,80 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/data
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-04-16T10:33:15.485492Z
+1711
+vp153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+haarcascades
+dir
+
+Makefile.in
+file
+
+
+
+
+2009-04-26T00:33:07.000000Z
+5b5d34be0e06ced7c10292b22480019a
+2009-01-21T20:52:36.033560Z
+1524
+kecsup
+
+Makefile.am
+file
+
+
+
+
+2009-04-26T00:33:07.000000Z
+3ea042912c175241ed1fb375963413d6
+2004-08-27T14:11:31.000000Z
+53
+vp153
+
+readme.txt
+file
+
+
+
+
+2009-04-26T00:33:07.000000Z
+6fc4799f3909bee23932156b5779887b
+2004-08-27T14:11:31.000000Z
+53
+vp153
+
+CMakeLists.txt
+file
+
+
+
+
+2009-04-26T00:33:07.000000Z
+58046a3ba20e9cccc87703f506c00299
+2008-12-22T17:42:14.101013Z
+1445
+vp153
+has-props
+

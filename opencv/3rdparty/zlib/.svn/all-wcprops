@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/opencvlibrary/!svn/ver/1554/trunk/opencv/3rdparty/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/222/trunk/opencv/3rdparty/zlib/inffast.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/222/trunk/opencv/3rdparty/zlib/configure
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/222/trunk/opencv/3rdparty/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/deflate.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/crc32.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/README
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/222/trunk/opencv/3rdparty/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/inftrees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/222/trunk/opencv/3rdparty/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/inffast.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/example.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/adler32.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1554/trunk/opencv/3rdparty/zlib/CMakeLists.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1208/trunk/opencv/3rdparty/zlib/.cvsignore
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/zlib/infback.c
+END

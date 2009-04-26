@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/1511/trunk/opencv/3rdparty/lib
+END
+Half.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/lib/Half.lib
+END
+IlmImf.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/lib/IlmImf.lib
+END
+libmingwex.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1066/trunk/opencv/3rdparty/lib/libmingwex.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1069/trunk/opencv/3rdparty/lib/libavformat.a
+END
+Iex.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/lib/Iex.lib
+END
+videoInput.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1312/trunk/opencv/3rdparty/lib/videoInput.lib
+END
+libvfw_cap32.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/45/trunk/opencv/3rdparty/lib/libvfw_cap32.a
+END
+libgcc_mingw.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1510/trunk/opencv/3rdparty/lib/libgcc_mingw.a
+END
+Imath.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/lib/Imath.lib
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1069/trunk/opencv/3rdparty/lib/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1069/trunk/opencv/3rdparty/lib/libavcodec.a
+END
+libvfw_ms32.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/45/trunk/opencv/3rdparty/lib/libvfw_ms32.a
+END
+libvfw_avi32.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/45/trunk/opencv/3rdparty/lib/libvfw_avi32.a
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1208/trunk/opencv/3rdparty/lib/.cvsignore
+END
+IlmThread.lib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/lib/IlmThread.lib
+END

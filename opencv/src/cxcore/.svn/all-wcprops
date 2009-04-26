@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore
+END
+cxmatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxmatrix.cpp
+END
+cxprecomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1612/trunk/opencv/src/cxcore/cxprecomp.cpp
+END
+cxcopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1695/trunk/opencv/src/cxcore/cxcopy.cpp
+END
+cxtables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1612/trunk/opencv/src/cxcore/cxtables.cpp
+END
+cxstat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxstat.cpp
+END
+cxarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxarray.cpp
+END
+cxconvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxconvert.cpp
+END
+cximage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1696/trunk/opencv/src/cxcore/cximage.cpp
+END
+cxarithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxarithm.cpp
+END
+cxpersistence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxpersistence.cpp
+END
+cxrand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1678/trunk/opencv/src/cxcore/cxrand.cpp
+END
+cxsystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1619/trunk/opencv/src/cxcore/cxsystem.cpp
+END
+cxmathfuncs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/src/cxcore/cxmathfuncs.cpp
+END
+cxalloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1648/trunk/opencv/src/cxcore/cxalloc.cpp
+END
+cxlapack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1642/trunk/opencv/src/cxcore/cxlapack.cpp
+END
+cxdrawing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1617/trunk/opencv/src/cxcore/cxdrawing.cpp
+END
+_cxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1642/trunk/opencv/src/cxcore/_cxcore.h
+END
+cxmatmul.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1642/trunk/opencv/src/cxcore/cxmatmul.cpp
+END
+cxdxt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1612/trunk/opencv/src/cxcore/cxdxt.cpp
+END
+cxdatastructs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1643/trunk/opencv/src/cxcore/cxdatastructs.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1648/trunk/opencv/src/cxcore/CMakeLists.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1207/trunk/opencv/src/cxcore/.cvsignore
+END

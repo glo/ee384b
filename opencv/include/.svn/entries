@@ -1,0 +1,55 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/include
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-04-25T13:58:48.583411Z
+1721
+vp153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+Makefile.in
+file
+
+
+
+
+2009-04-26T00:33:09.000000Z
+626fe51876ed7e409cb9460a008aad72
+2009-01-21T20:52:36.033560Z
+1524
+kecsup
+
+Makefile.am
+file
+
+
+
+
+2009-04-26T00:33:09.000000Z
+fb1979f84f58fe3c5103d36c8814b3a2
+2009-04-14T18:26:11.275515Z
+1696
+vp153
+
+opencv
+dir
+

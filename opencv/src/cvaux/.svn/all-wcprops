@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/opencvlibrary/!svn/ver/1688/trunk/opencv/src/cvaux
+END
+camshift.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/695/trunk/opencv/src/cvaux/camshift.cpp
+END
+cvocttree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1688/trunk/opencv/src/cvaux/cvocttree.cpp
+END
+_cvvectrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/_cvvectrack.h
+END
+cvepilines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/337/trunk/opencv/src/cvaux/cvepilines.cpp
+END
+cvbgfg_codebook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/cvbgfg_codebook.cpp
+END
+cvadaptiveskindetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1617/trunk/opencv/src/cvaux/cvadaptiveskindetector.cpp
+END
+cvauxutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvauxutils.cpp
+END
+extendededges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/6/trunk/opencv/src/cvaux/extendededges.cpp
+END
+cvclique.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/278/trunk/opencv/src/cvaux/cvclique.cpp
+END
+cv3dtracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1165/trunk/opencv/src/cvaux/cv3dtracker.cpp
+END
+cvmorphcontours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvmorphcontours.cpp
+END
+cvbgfg_acmmm2003.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1202/trunk/opencv/src/cvaux/cvbgfg_acmmm2003.cpp
+END
+cvhmmobs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvhmmobs.cpp
+END
+_cvvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/_cvvm.h
+END
+cvlevmar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvlevmar.cpp
+END
+cvlevmarprojbandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/496/trunk/opencv/src/cvaux/cvlevmarprojbandle.cpp
+END
+cvfacetemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/src/cvaux/cvfacetemplate.cpp
+END
+cvcorrimages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/496/trunk/opencv/src/cvaux/cvcorrimages.cpp
+END
+cvface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/src/cvaux/cvface.cpp
+END
+_cvaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/489/trunk/opencv/src/cvaux/_cvaux.h
+END
+_cvfacedetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1175/trunk/opencv/src/cvaux/_cvfacedetection.h
+END
+cvfuzzymeanshifttracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1684/trunk/opencv/src/cvaux/cvfuzzymeanshifttracker.cpp
+END
+cvfacedetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/25/trunk/opencv/src/cvaux/cvfacedetection.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1207/trunk/opencv/src/cvaux/.cvsignore
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1450/trunk/opencv/src/cvaux/CMakeLists.txt
+END
+cvtrifocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/cvtrifocal.cpp
+END
+cvlee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1668/trunk/opencv/src/cvaux/cvlee.cpp
+END
+cvhmm1d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvhmm1d.cpp
+END
+cvvideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvvideo.cpp
+END
+cvcreatehandmask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvcreatehandmask.cpp
+END
+cvlines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvlines.cpp
+END
+cvlcm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvlcm.cpp
+END
+cvlevmartrif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvlevmartrif.cpp
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/6/trunk/opencv/src/cvaux/precomp.cpp
+END
+cvbgfg_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1334/trunk/opencv/src/cvaux/cvbgfg_common.cpp
+END
+cvhog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1668/trunk/opencv/src/cvaux/cvhog.cpp
+END
+enmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/278/trunk/opencv/src/cvaux/enmin.cpp
+END
+cvcorrespond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvcorrespond.cpp
+END
+cvsubdiv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1668/trunk/opencv/src/cvaux/cvsubdiv2.cpp
+END
+cvfindhandregion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvfindhandregion.cpp
+END
+cvscanlines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/cvaux/cvscanlines.cpp
+END
+cvvecfacetracking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/175/trunk/opencv/src/cvaux/cvvecfacetracking.cpp
+END
+cvcalibfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1568/trunk/opencv/src/cvaux/cvcalibfilter.cpp
+END
+cvprewarp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvprewarp.cpp
+END
+cvhmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvhmm.cpp
+END
+cvmat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvmat.cpp
+END
+decomppoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/278/trunk/opencv/src/cvaux/decomppoly.cpp
+END
+cvmorphing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvmorphing.cpp
+END
+cvdpstereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvdpstereo.cpp
+END
+cvbgfg_gaussmix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1462/trunk/opencv/src/cvaux/cvbgfg_gaussmix.cpp
+END
+cvfacedetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/244/trunk/opencv/src/cvaux/cvfacedetection.cpp
+END
+cvaux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/204/trunk/opencv/src/cvaux/cvaux.cpp
+END
+cvfindface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/src/cvaux/cvfindface.cpp
+END
+cvfacetemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/25/trunk/opencv/src/cvaux/cvfacetemplate.h
+END
+cvspinimages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1668/trunk/opencv/src/cvaux/cvspinimages.cpp
+END
+cvtexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvtexture.cpp
+END
+cveigenobjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1191/trunk/opencv/src/cvaux/cveigenobjects.cpp
+END
+cvsegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/34/trunk/opencv/src/cvaux/cvsegment.cpp
+END
+cvface.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1175/trunk/opencv/src/cvaux/cvface.h
+END
+cvlmeds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/424/trunk/opencv/src/cvaux/cvlmeds.cpp
+END

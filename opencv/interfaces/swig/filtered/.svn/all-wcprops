@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1657/trunk/opencv/interfaces/swig/filtered
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/interfaces/swig/filtered/Makefile.in
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1657/trunk/opencv/interfaces/swig/filtered/constants.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1417/trunk/opencv/interfaces/swig/filtered/Makefile.am
+END
+cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1657/trunk/opencv/interfaces/swig/filtered/cv.h
+END

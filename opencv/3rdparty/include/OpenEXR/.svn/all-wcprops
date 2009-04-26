@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR
+END
+ImfTiledRgbaFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTiledRgbaFile.h
+END
+ImfXdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfXdr.h
+END
+IexErrnoExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IexErrnoExc.h
+END
+ImathVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathVec.h
+END
+ImfThreading.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfThreading.h
+END
+ImfIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfIO.h
+END
+ImfChromaticities.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfChromaticities.h
+END
+ImathVecAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathVecAlgo.h
+END
+ImfPreviewImageAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfPreviewImageAttribute.h
+END
+ImfRgbaYca.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfRgbaYca.h
+END
+ImfEnvmapAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfEnvmapAttribute.h
+END
+ImathPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathPlatform.h
+END
+ImfRgba.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfRgba.h
+END
+ImfRgbaFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfRgbaFile.h
+END
+ImfIntAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfIntAttribute.h
+END
+ImfCRgbaFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfCRgbaFile.h
+END
+ImathBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathBox.h
+END
+ImfTestFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTestFile.h
+END
+ImathBoxAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathBoxAlgo.h
+END
+ImfTiledOutputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTiledOutputFile.h
+END
+halfFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/halfFunction.h
+END
+ImfCompressionAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfCompressionAttribute.h
+END
+ImfTileDescriptionAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTileDescriptionAttribute.h
+END
+ImfVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfVersion.h
+END
+ImathShear.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathShear.h
+END
+ImathGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathGL.h
+END
+ImfTimeCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTimeCode.h
+END
+ImfDoubleAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfDoubleAttribute.h
+END
+IexMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IexMacros.h
+END
+ImfOutputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfOutputFile.h
+END
+ImfInt64.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfInt64.h
+END
+ImfChannelList.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfChannelList.h
+END
+ImathExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathExc.h
+END
+ImfLineOrderAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfLineOrderAttribute.h
+END
+ImfKeyCodeAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfKeyCodeAttribute.h
+END
+OpenEXRConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/OpenEXRConfig.h
+END
+ImfBoxAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfBoxAttribute.h
+END
+IlmThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IlmThread.h
+END
+ImathLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathLine.h
+END
+ImfName.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfName.h
+END
+ImathLineAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathLineAlgo.h
+END
+ImfLineOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfLineOrder.h
+END
+ImfKeyCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfKeyCode.h
+END
+IexThrowErrnoExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IexThrowErrnoExc.h
+END
+ImathHalfLimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathHalfLimits.h
+END
+ImfPixelType.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfPixelType.h
+END
+IexBaseExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IexBaseExc.h
+END
+ImfEnvmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfEnvmap.h
+END
+ImfChannelListAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfChannelListAttribute.h
+END
+ImathFrustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathFrustum.h
+END
+ImathRoots.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathRoots.h
+END
+ImfInputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfInputFile.h
+END
+IlmThreadMutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IlmThreadMutex.h
+END
+halfLimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/halfLimits.h
+END
+ImathQuat.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathQuat.h
+END
+ImfVecAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfVecAttribute.h
+END
+ImfAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfAttribute.h
+END
+ImathEuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathEuler.h
+END
+ImathColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathColor.h
+END
+ImathColorAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathColorAlgo.h
+END
+ImfTimeCodeAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTimeCodeAttribute.h
+END
+ImathFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathFun.h
+END
+ImfConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfConvert.h
+END
+ImathMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathMath.h
+END
+IlmThreadSemaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IlmThreadSemaphore.h
+END
+ImathFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathFrame.h
+END
+ImfHuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfHuf.h
+END
+ImfFrameBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfFrameBuffer.h
+END
+ImfHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfHeader.h
+END
+ImfMatrixAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfMatrixAttribute.h
+END
+ImfFloatAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfFloatAttribute.h
+END
+Iex.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/Iex.h
+END
+ImathMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathMatrix.h
+END
+ImfWav.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfWav.h
+END
+ImathMatrixAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathMatrixAlgo.h
+END
+ImfCompression.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfCompression.h
+END
+ImfTileDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTileDescription.h
+END
+IexMathExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IexMathExc.h
+END
+ImfLut.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfLut.h
+END
+ImathRandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathRandom.h
+END
+IlmThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/IlmThreadPool.h
+END
+ImfStandardAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfStandardAttributes.h
+END
+ImathInterval.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathInterval.h
+END
+ImathSphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathSphere.h
+END
+ImfArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfArray.h
+END
+ImathGLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathGLU.h
+END
+ImfOpaqueAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfOpaqueAttribute.h
+END
+half.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/half.h
+END
+ImfTiledInputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfTiledInputFile.h
+END
+ImfStdIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfStdIO.h
+END
+ImfPreviewImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfPreviewImage.h
+END
+ImathPlane.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathPlane.h
+END
+ImathLimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImathLimits.h
+END
+ImfStringAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfStringAttribute.h
+END
+ImfChromaticitiesAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/opencvlibrary/!svn/ver/890/trunk/opencv/3rdparty/include/OpenEXR/ImfChromaticitiesAttribute.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1711/trunk/opencv/data/haarcascades
+END
+haarcascade_eye.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1126/trunk/opencv/data/haarcascades/haarcascade_eye.xml
+END
+haarcascade_frontalface_alt_tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_frontalface_alt_tree.xml
+END
+haarcascade_frontalface_alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_frontalface_alt.xml
+END
+haarcascade_eye_tree_eyeglasses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/opencvlibrary/!svn/ver/1126/trunk/opencv/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+END
+haarcascade_frontalface_alt2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_frontalface_alt2.xml
+END
+haarcascade_lowerbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_lowerbody.xml
+END
+haarcascade_frontalface_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_frontalface_default.xml
+END
+haarcascade_upperbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_upperbody.xml
+END
+haarcascade_lefteye_2splits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/opencvlibrary/!svn/ver/1711/trunk/opencv/data/haarcascades/haarcascade_lefteye_2splits.xml
+END
+haarcascade_profileface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_profileface.xml
+END
+haarcascade_fullbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/128/trunk/opencv/data/haarcascades/haarcascade_fullbody.xml
+END
+haarcascade_righteye_2splits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/opencvlibrary/!svn/ver/1711/trunk/opencv/data/haarcascades/haarcascade_righteye_2splits.xml
+END

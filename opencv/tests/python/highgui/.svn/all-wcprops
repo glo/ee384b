@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui
+END
+cvLoadImagePPM.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvLoadImagePPM.py
+END
+cvSaveImage.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvSaveImage.py
+END
+seek_frame_divx.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_divx.py
+END
+query_divx.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_divx.py
+END
+seek_time_divx.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_divx.py
+END
+cvInitSystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvInitSystem.py
+END
+query_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_test.py
+END
+size_cinepak.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_cinepak.py
+END
+works.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/works.py
+END
+cvCreateTrackbar.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateTrackbar.py
+END
+size_mpeg4.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_mpeg4.py
+END
+cvQueryFrame.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvQueryFrame.py
+END
+cvSetMouseCallback.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvSetMouseCallback.py
+END
+cvCreateFileCaptureRGB.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureRGB.py
+END
+seek_frame_dv_pal_progressive_avi.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_dv_pal_progressive_avi.py
+END
+cvCaptureFromFileYVU9.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileYVU9.py
+END
+cvCaptureFromFileUYVY.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileUYVY.py
+END
+cvGetWindowHandleName.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvGetWindowHandleName.py
+END
+size_bmp32.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_bmp32.py
+END
+cvLoadImageSR.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvLoadImageSR.py
+END
+size_dv_pal_progressive_dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_dv_pal_progressive_dv.py
+END
+query_dv_pal_progressive_avi.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_dv_pal_progressive_avi.py
+END
+seek_time_dv_pal_progressive_avi.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_dv_pal_progressive_avi.py
+END
+size_3gp.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_3gp.py
+END
+seek_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_test.py
+END
+size_dv_pal_progressive_avi.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_dv_pal_progressive_avi.py
+END
+seek_frame_uncompressed.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_uncompressed.py
+END
+cvRetrieveFrame.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvRetrieveFrame.py
+END
+query_uncompressed.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_uncompressed.py
+END
+seek_time_uncompressed.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_uncompressed.py
+END
+seek_frame_mpeg4.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_mpeg4.py
+END
+query_mpeg4.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_mpeg4.py
+END
+cvCreateFileCaptureY8.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureY8.py
+END
+cvGetCaptureProperty.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvGetCaptureProperty.py
+END
+seek_time_mpeg4.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_mpeg4.py
+END
+cvCreateFileCaptureYV12.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureYV12.py
+END
+seek_frame_bmp32.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_bmp32.py
+END
+cvCreateFileCaptureYV16.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureYV16.py
+END
+seek_frame_dv_pal_progressive_dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_dv_pal_progressive_dv.py
+END
+query_bmp32.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_bmp32.py
+END
+seek_time_bmp32.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_bmp32.py
+END
+cvCreateFileCaptureYUY2.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureYUY2.py
+END
+query_dv_pal_progressive_dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_dv_pal_progressive_dv.py
+END
+cvCaptureFromFileRGB.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileRGB.py
+END
+cvLoadImage.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvLoadImage.py
+END
+seek_time_dv_pal_progressive_dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_dv_pal_progressive_dv.py
+END
+cvCreateFileCaptureRGBA.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureRGBA.py
+END
+seek_frame_huffyuv.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_huffyuv.py
+END
+cvGrabFrame.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvGrabFrame.py
+END
+cvGetSetTrackbarPos.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/cvGetSetTrackbarPos.py
+END
+cvLoadImagePNG.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvLoadImagePNG.py
+END
+query_huffyuv.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_huffyuv.py
+END
+seek_time_huffyuv.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_huffyuv.py
+END
+cvLoadImageTIFF.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvLoadImageTIFF.py
+END
+size_indeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_indeo.py
+END
+match.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/match.py
+END
+size_wmv9.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_wmv9.py
+END
+cvCaptureFromFileY8.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileY8.py
+END
+cvCaptureFromFileYV12.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileYV12.py
+END
+size_divx.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_divx.py
+END
+cvNamedWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvNamedWindow.py
+END
+cvWaitKey.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvWaitKey.py
+END
+cvCaptureFromFileYV16.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileYV16.py
+END
+cvCaptureFromFileYUY2.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileYUY2.py
+END
+cvMoveResizeWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvMoveResizeWindow.py
+END
+size_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_test.py
+END
+cvLoadImageBMP.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvLoadImageBMP.py
+END
+cvCaptureFromFileRGBA.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFileRGBA.py
+END
+frames.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/frames.py
+END
+size_bmp24.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_bmp24.py
+END
+seek_frame_indeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_indeo.py
+END
+cvCreateFileCapture.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/cvCreateFileCapture.py
+END
+query_indeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_indeo.py
+END
+seek_time_indeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_indeo.py
+END
+size_huffyuv.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_huffyuv.py
+END
+seek_frame_cinepak.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_cinepak.py
+END
+query_cinepak.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_cinepak.py
+END
+seek_time_cinepak.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_cinepak.py
+END
+size_uncompressed.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/size_uncompressed.py
+END
+seek_frame_bmp24.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_bmp24.py
+END
+query_bmp24.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_bmp24.py
+END
+seek_time_bmp24.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_bmp24.py
+END
+seek_frame_3gp.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_3gp.py
+END
+cvShowImage.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvShowImage.py
+END
+cvLoadImageJPG.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvLoadImageJPG.py
+END
+cvCreateFileCaptureUYVY.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureUYVY.py
+END
+cvCreateFileCaptureYVU9.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/opencvlibrary/!svn/ver/1053/trunk/opencv/tests/python/highgui/cvCreateFileCaptureYVU9.py
+END
+query_3gp.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_3gp.py
+END
+seek_time_3gp.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_3gp.py
+END
+cvCaptureFromFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/tests/python/highgui/cvCaptureFromFile.py
+END
+seek_frame_wmv9.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_frame_wmv9.py
+END
+query_wmv9.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/query_wmv9.py
+END
+seek_time_wmv9.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1105/trunk/opencv/tests/python/highgui/seek_time_wmv9.py
+END

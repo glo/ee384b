@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1601/trunk/opencv/3rdparty/include
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/include/pngconf.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/25/trunk/opencv/3rdparty/include/jmorecfg.h
+END
+clapack.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1518/trunk/opencv/3rdparty/include/clapack.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/include/zlib.h
+END
+msc_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1416/trunk/opencv/3rdparty/include/msc_stdint.h
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1601/trunk/opencv/3rdparty/include/f2c.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/3rdparty/include/jpeglib.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/25/trunk/opencv/3rdparty/include/jconfig.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/include/zconf.h
+END
+tiffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/223/trunk/opencv/3rdparty/include/tiffio.h
+END
+msc_inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1552/trunk/opencv/3rdparty/include/msc_inttypes.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1213/trunk/opencv/3rdparty/include/png.h
+END
+cblas.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1527/trunk/opencv/3rdparty/include/cblas.h
+END
+videoInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1312/trunk/opencv/3rdparty/include/videoInput.h
+END
+tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/223/trunk/opencv/3rdparty/include/tiff.h
+END
+tiffvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/223/trunk/opencv/3rdparty/include/tiffvers.h
+END

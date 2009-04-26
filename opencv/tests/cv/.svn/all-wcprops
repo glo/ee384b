@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/opencvlibrary/!svn/ver/1704/trunk/opencv/tests/cv
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/tests/cv/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/39/trunk/opencv/tests/cv/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1412/trunk/opencv/tests/cv/CMakeLists.txt
+END

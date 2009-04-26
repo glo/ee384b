@@ -1,0 +1,79 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/3rdparty
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-02-22T16:40:57.024891Z
+1601
+kecsup
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+libtiff
+dir
+
+zlib
+dir
+
+include
+dir
+
+lib
+dir
+
+lapack
+dir
+
+libjasper
+dir
+
+libpng
+dir
+
+readme.txt
+file
+
+
+
+
+2009-04-26T00:33:37.000000Z
+968636f5aa06e50ca3f66d1622cf8884
+2009-01-19T21:20:36.773346Z
+1518
+vp153
+
+libjpeg
+dir
+
+ilmimf
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-04-26T00:33:37.000000Z
+a5a3ecfad6af4402187e31f4222c94b7
+2009-01-26T23:06:04.174821Z
+1552
+vp153
+

@@ -1,0 +1,34 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/tests/python/testdata
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2007-03-12T14:06:30.000000Z
+1053
+markasbach
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+images
+dir
+
+videos
+dir
+

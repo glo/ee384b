@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/include/opencv
+END
+cvvidsurv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1443/trunk/opencv/include/opencv/cvvidsurv.hpp
+END
+cvtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1231/trunk/opencv/include/opencv/cvtypes.h
+END
+cxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/include/opencv/cxtypes.h
+END
+cvwimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1489/trunk/opencv/include/opencv/cvwimage.h
+END
+cvstreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/606/trunk/opencv/include/opencv/cvstreams.h
+END
+cv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/include/opencv/cv.hpp
+END
+cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1699/trunk/opencv/include/opencv/cv.h
+END
+ml.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/include/opencv/ml.h
+END
+cvmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1158/trunk/opencv/include/opencv/cvmat.hpp
+END
+cvcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1381/trunk/opencv/include/opencv/cvcompat.h
+END
+cxoperations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/include/opencv/cxoperations.hpp
+END
+cxcore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/include/opencv/cxcore.hpp
+END
+cxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1696/trunk/opencv/include/opencv/cxcore.h
+END
+cxerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1611/trunk/opencv/include/opencv/cxerror.h
+END
+highgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1714/trunk/opencv/include/opencv/highgui.h
+END
+highgui.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1700/trunk/opencv/include/opencv/highgui.hpp
+END
+cvver.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1311/trunk/opencv/include/opencv/cvver.h
+END
+cxmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1653/trunk/opencv/include/opencv/cxmisc.h
+END
+cvaux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1688/trunk/opencv/include/opencv/cvaux.hpp
+END
+cvaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1334/trunk/opencv/include/opencv/cvaux.h
+END

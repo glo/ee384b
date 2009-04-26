@@ -1,0 +1,73 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/interfaces
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-04-25T21:45:46.293742Z
+1722
+vp153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+Makefile.in
+file
+
+
+
+
+2009-04-26T00:32:32.000000Z
+80bfd27faaa11984975b24c7fe61659f
+2009-01-21T20:52:36.033560Z
+1524
+kecsup
+
+ippopencv
+dir
+
+ffopencv
+dir
+
+swig
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-04-26T00:32:32.000000Z
+96e9cfae428011450b2a6d45686ebb1c
+2005-02-22T16:36:56.000000Z
+123
+markasbach
+
+CMakeLists.txt
+file
+
+
+
+
+2009-04-26T00:32:32.000000Z
+c9d07c4ae2bbbbf47f4a9c32bff52fc7
+2009-03-07T13:32:28.677215Z
+1624
+vp153
+

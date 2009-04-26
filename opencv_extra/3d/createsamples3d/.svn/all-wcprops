@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d
+END
+createsamples3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/createsamples3d.cpp
+END
+createsamplesfromvideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/createsamplesfromvideo.cpp
+END
+createsamples3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/createsamples3d.h
+END
+_camera.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/_camera.yml
+END
+calibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/calibration.cpp
+END
+createsamplesfromvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/createsamplesfromvideo.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/readme.txt
+END
+args.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/args.yml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/CMakeLists.txt
+END
+calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/calibration.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1676/trunk/opencv_extra/3d/createsamples3d/makefile
+END

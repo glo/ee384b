@@ -1,0 +1,76 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/samples
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-04-13T14:14:36.986386Z
+1691
+jlblanco
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+octave
+dir
+
+python
+dir
+
+c
+dir
+
+Makefile.in
+file
+
+
+
+
+2009-04-26T00:33:15.000000Z
+fac5210018497aca8e7a955b781e3808
+2009-01-21T20:52:36.033560Z
+1524
+kecsup
+
+Makefile.am
+file
+
+
+
+
+2009-04-26T00:33:15.000000Z
+ec8e81ef66e857bd494d944c2e0346fa
+2008-03-27T13:36:09.000000Z
+1109
+xavier98
+
+MacOSX
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-04-26T00:33:15.000000Z
+d5535c518de1a223e3f4914db1a12c2e
+2009-02-12T16:00:36.807822Z
+1594
+bornet
+

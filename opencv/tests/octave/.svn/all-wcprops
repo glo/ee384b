@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/tests/octave
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/tests/octave/Makefile.in
+END
+test_adaptors.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1151/trunk/opencv/tests/octave/test_adaptors.m
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1409/trunk/opencv/tests/octave/Makefile.am
+END
+frame.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1151/trunk/opencv/tests/octave/frame.jpg
+END

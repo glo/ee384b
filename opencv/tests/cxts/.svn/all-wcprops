@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/opencvlibrary/!svn/ver/1651/trunk/opencv/tests/cxts
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/tests/cxts/Makefile.in
+END
+cxts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1615/trunk/opencv/tests/cxts/cxts.cpp
+END
+_cxts.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/492/trunk/opencv/tests/cxts/_cxts.h
+END
+cxts_arrtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/821/trunk/opencv/tests/cxts/cxts_arrtest.cpp
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/38/trunk/opencv/tests/cxts/precomp.cpp
+END
+cxts.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1651/trunk/opencv/tests/cxts/cxts.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/1417/trunk/opencv/tests/cxts/Makefile.am
+END
+cxts_math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1651/trunk/opencv/tests/cxts/cxts_math.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1207/trunk/opencv/tests/cxts/.cvsignore
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1412/trunk/opencv/tests/cxts/CMakeLists.txt
+END

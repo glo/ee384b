@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/opencvlibrary/!svn/ver/1721/trunk/opencv/include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/include/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1696/trunk/opencv/include/Makefile.am
+END

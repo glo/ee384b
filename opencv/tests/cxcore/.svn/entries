@@ -1,0 +1,67 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/tests/cxcore
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-04-25T13:58:48.583411Z
+1721
+vp153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+Makefile.in
+file
+
+
+
+
+2009-04-26T00:32:46.000000Z
+ed95b35500eb5875242dcaf808652cc0
+2009-01-21T20:52:36.033560Z
+1524
+kecsup
+
+src
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-04-26T00:32:46.000000Z
+7ce728e42b3b23fa41b0e81f7f2d11be
+2004-08-18T15:01:17.000000Z
+39
+vp153
+
+CMakeLists.txt
+file
+
+
+
+
+2009-04-26T00:32:46.000000Z
+b68a4d1ec34fd1104d1fa3686d40730d
+2008-12-08T02:04:08.661203Z
+1412
+vp153
+

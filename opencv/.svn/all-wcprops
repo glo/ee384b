@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/opencvlibrary/!svn/ver/1723/trunk/opencv
+END
+Package.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1448/trunk/opencv/Package.cmake.in
+END
+opencv.pc.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1395/trunk/opencv/opencv.pc.cmake.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/opencvlibrary/!svn/ver/716/trunk/opencv/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/1589/trunk/opencv/configure.in
+END
+make_frameworks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1061/trunk/opencv/make_frameworks.sh
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/opencvlibrary/!svn/ver/1347/trunk/opencv/ChangeLog
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/opencvlibrary/!svn/ver/1685/trunk/opencv/THANKS
+END
+opencv.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/opencvlibrary/!svn/ver/901/trunk/opencv/opencv.spec.in
+END
+cvconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/opencvlibrary/!svn/ver/1589/trunk/opencv/cvconfig.h.in
+END
+cmake_uninstall.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1391/trunk/opencv/cmake_uninstall.cmake.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/opencvlibrary/!svn/ver/40/trunk/opencv/README
+END
+opencv.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/opencvlibrary/!svn/ver/689/trunk/opencv/opencv.pc.in
+END
+OpenCVFindPkgConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1526/trunk/opencv/OpenCVFindPkgConfig.cmake
+END
+cvconfig.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1589/trunk/opencv/cvconfig.h.cmake
+END
+OpenCVConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1591/trunk/opencv/OpenCVConfig.cmake.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/opencvlibrary/!svn/ver/970/trunk/opencv/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/opencvlibrary/!svn/ver/1530/trunk/opencv/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/opencvlibrary/!svn/ver/1447/trunk/opencv/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/opencvlibrary/!svn/ver/1493/trunk/opencv/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/opencvlibrary/!svn/ver/40/trunk/opencv/NEWS
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/opencvlibrary/!svn/ver/1354/trunk/opencv/.cvsignore
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/opencvlibrary/!svn/ver/1632/trunk/opencv/CMakeLists.txt
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/aclocal.m4
+END

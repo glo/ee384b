@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/opencvlibrary/!svn/ver/1719/trunk/opencv/src/ml
+END
+mlsvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/ml/mlsvm.cpp
+END
+mlertrees.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1719/trunk/opencv/src/ml/mlertrees.cpp
+END
+mldata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/src/ml/mldata.cpp
+END
+mlestimate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/695/trunk/opencv/src/ml/mlestimate.cpp
+END
+mlknearest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/ml/mlknearest.cpp
+END
+mlcnn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/667/trunk/opencv/src/ml/mlcnn.cpp
+END
+ml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/483/trunk/opencv/src/ml/ml.cpp
+END
+mlnbayes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/ml/mlnbayes.cpp
+END
+_ml.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/opencvlibrary/!svn/ver/666/trunk/opencv/src/ml/_ml.h
+END
+mlann_mlp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/src/ml/mlann_mlp.cpp
+END
+mlboost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1693/trunk/opencv/src/ml/mlboost.cpp
+END
+mltestset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/483/trunk/opencv/src/ml/mltestset.cpp
+END
+mltree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1719/trunk/opencv/src/ml/mltree.cpp
+END
+mlem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/1465/trunk/opencv/src/ml/mlem.cpp
+END
+ml_inner_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/1689/trunk/opencv/src/ml/ml_inner_functions.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1450/trunk/opencv/src/ml/CMakeLists.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1207/trunk/opencv/src/ml/.cvsignore
+END
+mlrtrees.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1693/trunk/opencv/src/ml/mlrtrees.cpp
+END

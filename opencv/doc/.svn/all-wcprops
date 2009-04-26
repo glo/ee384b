@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/opencvlibrary/!svn/ver/1674/trunk/opencv/doc
+END
+python.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/opencvlibrary/!svn/ver/617/trunk/opencv/doc/python.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/opencvlibrary/!svn/ver/740/trunk/opencv/doc/license.txt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/doc/Makefile.in
+END
+cvcam.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/opencvlibrary/!svn/ver/35/trunk/opencv/doc/cvcam.rtf
+END
+pattern.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/opencvlibrary/!svn/ver/304/trunk/opencv/doc/pattern.pdf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/1409/trunk/opencv/doc/Makefile.am
+END
+opencv.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/doc/opencv.jpg
+END
+opencv-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/opencvlibrary/!svn/ver/1346/trunk/opencv/doc/opencv-logo.png
+END
+opencv-logo2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/1346/trunk/opencv/doc/opencv-logo2.png
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1445/trunk/opencv/doc/CMakeLists.txt
+END
+faq.htm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/opencvlibrary/!svn/ver/1085/trunk/opencv/doc/faq.htm
+END
+haartraining.htm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/43/trunk/opencv/doc/haartraining.htm
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/opencvlibrary/!svn/ver/1357/trunk/opencv/doc/index.htm
+END

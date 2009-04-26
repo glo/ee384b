@@ -1,0 +1,52 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/3rdparty/ilmimf
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2006-10-17T12:10:46.000000Z
+890
+vp153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+LICENSE
+file
+
+
+
+
+2009-04-26T00:33:37.000000Z
+0b98e88ff22876342def920e4fc87551
+2006-10-17T12:10:46.000000Z
+890
+vp153
+
+README
+file
+
+
+
+
+2009-04-26T00:33:37.000000Z
+89d2bfedc6d9dbdc8a8f3a1b9907d4ec
+2006-10-17T12:10:46.000000Z
+890
+vp153
+

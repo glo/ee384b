@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1397/trunk/opencv/samples/c/example_cmake
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/1391/trunk/opencv/samples/c/example_cmake/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/opencvlibrary/!svn/ver/1397/trunk/opencv/samples/c/example_cmake/CMakeLists.txt
+END
+minarea.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/1391/trunk/opencv/samples/c/example_cmake/minarea.c
+END

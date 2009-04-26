@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src
+END
+adtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src/adtree.cpp
+END
+artrees.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src/artrees.cpp
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1672/trunk/opencv/tests/ml/src/precomp.cpp
+END
+aboost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src/aboost.cpp
+END
+aertrees.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src/aertrees.cpp
+END
+mltest_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1622/trunk/opencv/tests/ml/src/mltest_main.cpp
+END
+mltest.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src/mltest.h
+END
+treesbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1712/trunk/opencv/tests/ml/src/treesbase.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1061/trunk/opencv/samples/MacOSX/FaceTracker
+END
+FaceTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/opencvlibrary/!svn/ver/1061/trunk/opencv/samples/MacOSX/FaceTracker/FaceTracker.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/opencvlibrary/!svn/ver/1061/trunk/opencv/samples/MacOSX/FaceTracker/README.txt
+END
+FaceTracker-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/opencvlibrary/!svn/ver/1061/trunk/opencv/samples/MacOSX/FaceTracker/FaceTracker-Info.plist
+END

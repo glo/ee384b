@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/opencvlibrary/!svn/ver/1704/trunk/opencv/tests/cv/src
+END
+acreatecontourtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/acreatecontourtree.cpp
+END
+athresh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/676/trunk/opencv/tests/cv/src/athresh.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/tests/cv/src/Makefile.in
+END
+akalman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/akalman.cpp
+END
+aemd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aemd.cpp
+END
+astereocorrespondencegc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/opencvlibrary/!svn/ver/1339/trunk/opencv/tests/cv/src/astereocorrespondencegc.cpp
+END
+cvtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/tests/cv/src/cvtest.cpp
+END
+amatchcontourtrees.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/amatchcontourtrees.cpp
+END
+afloodfill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/686/trunk/opencv/tests/cv/src/afloodfill.cpp
+END
+acontours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/831/trunk/opencv/tests/cv/src/acontours.cpp
+END
+akdtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1508/trunk/opencv/tests/cv/src/akdtree.cpp
+END
+acolor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/967/trunk/opencv/tests/cv/src/acolor.cpp
+END
+akmeans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/akmeans.cpp
+END
+adistancetransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/154/trunk/opencv/tests/cv/src/adistancetransform.cpp
+END
+aeigenobjects.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/695/trunk/opencv/tests/cv/src/aeigenobjects.inc
+END
+acontoursmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/acontoursmatch.cpp
+END
+aconvhull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/tests/cv/src/aconvhull.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1207/trunk/opencv/tests/cv/src/.cvsignore
+END
+acontourmoments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/860/trunk/opencv/tests/cv/src/acontourmoments.cpp
+END
+acamshift.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/884/trunk/opencv/tests/cv/src/acamshift.cpp
+END
+amotseg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/amotseg.cpp
+END
+aposit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aposit.cpp
+END
+atemplmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/tests/cv/src/atemplmatch.cpp
+END
+acameracalibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/acameracalibration.cpp
+END
+aeigenobjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aeigenobjects.cpp
+END
+achesscorners.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/1322/trunk/opencv/tests/cv/src/achesscorners.cpp
+END
+tsysa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/tsysa.cpp
+END
+aspilltree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/1508/trunk/opencv/tests/cv/src/aspilltree.cpp
+END
+aimgwarp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/1651/trunk/opencv/tests/cv/src/aimgwarp.cpp
+END
+ahoughtransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/ahoughtransform.cpp
+END
+aadaptthresh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aadaptthresh.cpp
+END
+acanny.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/tests/cv/src/acanny.cpp
+END
+afundam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1411/trunk/opencv/tests/cv/src/afundam.cpp
+END
+aoptflowpyrlk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aoptflowpyrlk.cpp
+END
+cvtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/opencvlibrary/!svn/ver/1259/trunk/opencv/tests/cv/src/cvtest.h
+END
+aapproxpoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aapproxpoly.cpp
+END
+ahistograms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/opencvlibrary/!svn/ver/942/trunk/opencv/tests/cv/src/ahistograms.cpp
+END
+aoptflowlk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aoptflowlk.cpp
+END
+asubdivisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/902/trunk/opencv/tests/cv/src/asubdivisions.cpp
+END
+aimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aimage.cpp
+END
+amoments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/676/trunk/opencv/tests/cv/src/amoments.cpp
+END
+amotiontemplates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/969/trunk/opencv/tests/cv/src/amotiontemplates.cpp
+END
+asnakes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/937/trunk/opencv/tests/cv/src/asnakes.cpp
+END
+ahmmobs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/27/trunk/opencv/tests/cv/src/ahmmobs.cpp
+END
+afilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1704/trunk/opencv/tests/cv/src/afilter.cpp
+END
+adrawing_regress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/opencvlibrary/!svn/ver/98/trunk/opencv/tests/cv/src/adrawing_regress.cpp
+END
+aoptflowhs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/aoptflowhs.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1417/trunk/opencv/tests/cv/src/Makefile.am
+END
+aaccum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/opencvlibrary/!svn/ver/676/trunk/opencv/tests/cv/src/aaccum.cpp
+END
+apyrsegmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/opencvlibrary/!svn/ver/882/trunk/opencv/tests/cv/src/apyrsegmentation.cpp
+END
+acondens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/872/trunk/opencv/tests/cv/src/acondens.cpp
+END

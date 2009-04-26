@@ -1,0 +1,67 @@
+8
+
+dir
+1723
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/trunk/opencv/apps
+https://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary
+
+
+
+2009-03-29T21:03:12.880779Z
+1664
+vp153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73c94f0f-984f-4a5f-82bc-2d8db8d8ee08
+
+Makefile.in
+file
+
+
+
+
+2009-04-26T00:32:59.000000Z
+9c590c7e2156869de9ccc2e2161d148a
+2009-01-21T20:52:36.033560Z
+1524
+kecsup
+
+haartraining
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-04-26T00:32:59.000000Z
+0757a30cea5356e74225dff562ce21f3
+2008-12-09T16:56:30.220057Z
+1417
+markasbach
+
+CMakeLists.txt
+file
+
+
+
+
+2009-04-26T00:32:59.000000Z
+9b1a6273485f545fd555281545577c11
+2008-12-04T22:08:45.000000Z
+1403
+vp153
+

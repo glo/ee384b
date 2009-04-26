@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/opencvlibrary/!svn/ver/1546/trunk/opencv/utils
+END
+extract_doublepointers.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/opencvlibrary/!svn/ver/771/trunk/opencv/utils/extract_doublepointers.py
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/utils/Makefile.in
+END
+cvarr_operators.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1497/trunk/opencv/utils/cvarr_operators.py
+END
+extract_aliases.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/opencvlibrary/!svn/ver/1545/trunk/opencv/utils/extract_aliases.py
+END
+opencv.ico
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1358/trunk/opencv/utils/opencv.ico
+END
+extract_macros.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/1546/trunk/opencv/utils/extract_macros.py
+END
+opencv.iss
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/1363/trunk/opencv/utils/opencv.iss
+END
+splash.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/918/trunk/opencv/utils/splash.bmp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/1409/trunk/opencv/utils/Makefile.am
+END
+check_doc.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/opencvlibrary/!svn/ver/123/trunk/opencv/utils/check_doc.py
+END
+make_index.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/123/trunk/opencv/utils/make_index.py
+END
+extract_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/opencvlibrary/!svn/ver/641/trunk/opencv/utils/extract_constants.py
+END

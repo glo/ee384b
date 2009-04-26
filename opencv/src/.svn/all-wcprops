@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/opencvlibrary/!svn/ver/1723/trunk/opencv/src
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/1524/trunk/opencv/src/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/opencvlibrary/!svn/ver/1696/trunk/opencv/src/Makefile.am
+END
+dummy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/opencvlibrary/!svn/ver/1417/trunk/opencv/src/dummy.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/opencvlibrary/!svn/ver/1443/trunk/opencv/src/CMakeLists.txt
+END

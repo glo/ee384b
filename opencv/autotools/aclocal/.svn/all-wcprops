@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/opencvlibrary/!svn/ver/620/trunk/opencv/autotools/aclocal
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/opencvlibrary/!svn/ver/160/trunk/opencv/autotools/aclocal/pkg.m4
+END
+swig_complete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/opencvlibrary/!svn/ver/620/trunk/opencv/autotools/aclocal/swig_complete.m4
+END
+version_at_least.m4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/opencvlibrary/!svn/ver/620/trunk/opencv/autotools/aclocal/version_at_least.m4
+END
+az_python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/opencvlibrary/!svn/ver/468/trunk/opencv/autotools/aclocal/az_python.m4
+END
